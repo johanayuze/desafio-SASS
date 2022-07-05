@@ -1,0 +1,16 @@
+#footer{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: $mainColor;
+	img{
+		padding: 10px;
+		background-color: $white;
+		}
+	h3{
+			color:$white;
+			margin-bottom: 10px;
+			font-size:$textLg;
+		} 
+	
+}
